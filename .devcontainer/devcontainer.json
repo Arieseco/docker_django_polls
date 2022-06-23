@@ -1,0 +1,14 @@
+{
+  "name": "Python Django Nginx Postgresql",
+  "dockerComposeFile": [
+    "docker-compose.yml"
+  ],
+  "service": "django",
+  "workspaceFolder": "/fwpc0811/workspace",
+  "extensions": [
+    "ms-python.python"
+  ],
+  "settings": {
+    "editor.tabSize": 2
+  }
+}
