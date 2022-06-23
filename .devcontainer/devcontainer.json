@@ -6,7 +6,9 @@
   "service": "django",
   "workspaceFolder": "/fwpc0811/workspace",
   "extensions": [
-    "ms-python.python"
+    "ms-python.python",
+    "alexcvzz.vscode-sqlite",
+    "batisteo.vscode-django"
   ],
   "settings": {
     "editor.tabSize": 2

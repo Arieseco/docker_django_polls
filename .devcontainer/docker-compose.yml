@@ -3,7 +3,7 @@ services:
   django:
     build: ./django
     image: django
-    container_name: 'ex0618_django'
+    container_name: 'ex0624_django'
     ports:
       - 8000:8000
     environment:

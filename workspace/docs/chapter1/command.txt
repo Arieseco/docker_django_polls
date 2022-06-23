@@ -1,0 +1,18 @@
+python -m django --version > docs/chapter1/command.txt 
+#4.0.5
+
+# プロジェクトを作成する
+django-admin startproject mysite .
+
+# 開発用サーバー
+python manage.py runserver
+
+#
+python manage.py startapp polls
+
+http://localhost:8000/polls/ 
+
+#
+python manage.py migrate
+
+python manage.py shell
